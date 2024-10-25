@@ -1,0 +1,15 @@
+aliases: []
+creation_timestamp: 1729857676217
+current_stage: None
+description: ''
+last_updated_timestamp: 1729857676217
+name: Decision Tree
+run_id: 4c9c108fc87149d78ffc10c041f9a513
+run_link: ''
+source: models:/Decision Tree/1
+status: READY
+status_message: null
+storage_location: file:///C:/Users/BESTWAY/Downloads/Technical Project/ML Flow/Sentiment_Analysis_Artifacts/4c9c108fc87149d78ffc10c041f9a513/artifacts/Decision
+  Tree
+user_id: null
+version: 2
